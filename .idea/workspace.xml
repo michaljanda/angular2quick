@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2255b686-bb51-4c6d-bfd8-04535296d6a3" name="Default" comment="in step 5 before heading Navigating to hero details">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/dashboard.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/dashboard.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/dashboard.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/dashboard.component.ts" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/quickstart_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/quickstart.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+    <list default="true" id="2255b686-bb51-4c6d-bfd8-04535296d6a3" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js" afterPath="$PROJECT_DIR$/src/app/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js.map" afterPath="$PROJECT_DIR$/src/app/app.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.ts" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.js" afterPath="$PROJECT_DIR$/src/app/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.js.map" afterPath="$PROJECT_DIR$/src/app/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/heroes.component.js" afterPath="$PROJECT_DIR$/src/app/heroes.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/heroes.component.js.map" afterPath="$PROJECT_DIR$/src/app/heroes.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/heroes.component.ts" afterPath="$PROJECT_DIR$/src/app/heroes.component.ts" />
     </list>
     <ignored path="quickstart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -880,7 +855,7 @@
       <updated>1494423784990</updated>
       <workItem from="1494423786301" duration="2304000" />
       <workItem from="1494426216128" duration="10258000" />
-      <workItem from="1494595815993" duration="1394000" />
+      <workItem from="1494595815993" duration="1427000" />
     </task>
     <task id="LOCAL-00001" summary="fixed bugs, part of step5, idea folder removed">
       <created>1494595865714</created>
@@ -888,11 +863,17 @@
       <option name="project" value="LOCAL" />
       <updated>1494595865714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="in step 5 before heading Navigating to hero details">
+      <created>1494597231584</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494597231584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13956000" />
+    <option name="totallyTimeSpent" value="13989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -940,7 +921,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fixed bugs, part of step5, idea folder removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed bugs, part of step5, idea folder removed" />
+    <MESSAGE value="in step 5 before heading Navigating to hero details" />
+    <option name="LAST_COMMIT_MESSAGE" value="in step 5 before heading Navigating to hero details" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
